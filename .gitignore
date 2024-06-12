@@ -12,6 +12,7 @@ build/
 develop-eggs/
 dist/
 venv/
+datafolder/
 downloads/
 eggs/
 .eggs/
